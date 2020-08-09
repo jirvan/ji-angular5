@@ -1,0 +1,6 @@
+{
+    "name": "ji-angular5",
+    "version": "2.1.2",
+    "files": ["components/*"],
+    "private": true
+}
